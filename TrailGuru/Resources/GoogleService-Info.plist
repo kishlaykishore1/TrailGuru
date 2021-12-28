@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>95889642697-lvqlp3kkvnsec3eklsr9nsdkim1c3cfr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95889642697-lvqlp3kkvnsec3eklsr9nsdkim1c3cfr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>95889642697-92gohtithvho6e7dkn18f1tc4daeqv1t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMW_ORw6JTPIuZOyann4ZzvHtmQaQlu24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95889642697</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TrailGuru.ios</string>
+	<key>PROJECT_ID</key>
+	<string>trailguru-895db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trailguru-895db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95889642697:ios:60ccab6c90821b7051e918</string>
+	<key>DATABASE_URL</key>
+	<string>https://trailguru-895db.firebaseio.com</string>
+</dict>
+</plist>
